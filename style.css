@@ -1,0 +1,13 @@
+img{
+    width: 300px;
+    height:300px;
+}
+body{
+    background: linear-gradient(blue 0% , green 80% , red 20% );
+}
+h1{
+    color: aquamarine;
+}
+h3{
+    color:blanchedalmond;
+}
